@@ -4,4 +4,4 @@
 
 ## Pero estas son las pruebas de que entrene el nuevo modelo en el google collab 
 ![prueba](/Screenshot%202022-09-22%20005231.png "modelo entrenado")
-![prueba](/mlappproject/Screenshot%202022-09-22%20005733.png"modelo entrenado")
+![prueba](/mlappproject/Screenshot%202022-09-22%20005733.png "modelo entrenado")
